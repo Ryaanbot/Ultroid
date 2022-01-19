@@ -27,7 +27,7 @@
 - [Local Machine](#Deploy-Locally)
 
 # Documentation 
-[![Documentation](https://img.shields.io/badge/Documentation-Ultroid-blue)](http://ultroid.tech/)
+[![Documentation](https://img.shields.io/badge/Documentation-Ultroid-blue)](https://dashboard.heroku.com/new?button-url=https://github.com/Ryaanbot/Ultroid&template=https://github.com/Ryaanbot/Ultroid)
 
 # Tutorial 
 - Full Tutorial - [![Full Tutorial](https://img.shields.io/badge/Watch%20Now-blue)](https://www.youtube.com/watch?v=0wAV7pUzhDQ)
